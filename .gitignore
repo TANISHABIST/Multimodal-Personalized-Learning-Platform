@@ -1,0 +1,6 @@
+.env
+data/uploads/
+data/vector_store/
+data/processed_files.json
+__pycache__/
+*.pyc
